@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="410" viewBox="0 0 880 410" role="img" aria-labelledby="titulo descricao">
+<title id="titulo">Receita mensal simulada — janeiro a junho de 2026</title>
+<desc id="descricao">Gráfico de barras com dados inteiramente fictícios. Valores de cada mês estão escritos acima das barras.</desc>
+<rect width="880" height="410" fill="#f6f8fa"/>
+<g font-family="Arial, sans-serif" fill="#172b3a">
+<text x="32" y="42" font-size="24" font-weight="700">Receita mensal simulada</text>
+<text x="32" y="69" font-size="14">Dados fictícios · pedidos concluídos · jan–jun/2026</text>
+<line x1="42" y1="330" x2="842" y2="330" stroke="#9aaaba"/>
+<rect x="65" y="228" width="90" height="102" rx="5" fill="#176b87"/>
+<text x="110" y="216" text-anchor="middle" font-size="13">R$ 8.827,87</text>
+<text x="110" y="354" text-anchor="middle" font-size="14">2026-01</text>
+<rect x="195" y="195" width="90" height="135" rx="5" fill="#176b87"/>
+<text x="240" y="183" text-anchor="middle" font-size="13">R$ 11.628,67</text>
+<text x="240" y="354" text-anchor="middle" font-size="14">2026-02</text>
+<rect x="325" y="197" width="90" height="133" rx="5" fill="#176b87"/>
+<text x="370" y="185" text-anchor="middle" font-size="13">R$ 11.477,50</text>
+<text x="370" y="354" text-anchor="middle" font-size="14">2026-03</text>
+<rect x="455" y="166" width="90" height="164" rx="5" fill="#176b87"/>
+<text x="500" y="154" text-anchor="middle" font-size="13">R$ 14.123,90</text>
+<text x="500" y="354" text-anchor="middle" font-size="14">2026-04</text>
+<rect x="585" y="172" width="90" height="158" rx="5" fill="#176b87"/>
+<text x="630" y="160" text-anchor="middle" font-size="13">R$ 13.669,84</text>
+<text x="630" y="354" text-anchor="middle" font-size="14">2026-05</text>
+<rect x="715" y="145" width="90" height="185" rx="5" fill="#176b87"/>
+<text x="760" y="133" text-anchor="middle" font-size="13">R$ 15.970,13</text>
+<text x="760" y="354" text-anchor="middle" font-size="14">2026-06</text>
+<text x="32" y="390" font-size="12">O volume mensal foi definido no gerador; este exercício não demonstra sazonalidade real.</text>
+</g></svg>

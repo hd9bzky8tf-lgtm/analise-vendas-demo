@@ -1,0 +1,13 @@
+id_produto,produto,categoria
+P001,Caderno A5 liso,Papelaria
+P002,Bloco de notas,Papelaria
+P003,Caneta azul,Papelaria
+P004,Lapis grafite,Papelaria
+P005,Pasta simples,Escritorio
+P006,Grampeador pequeno,Escritorio
+P007,Caixa de clipes,Escritorio
+P008,Tesoura pequena,Escritorio
+P009,Organizador de mesa,Organizacao
+P010,Caixa organizadora,Organizacao
+P011,Porta-canetas,Organizacao
+P012,Estojo simples,Organizacao
